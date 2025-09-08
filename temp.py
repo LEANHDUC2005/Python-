@@ -1,6 +1,3 @@
-# mixed list
-list = ['cat', 0, 6.7]
- 
-# copying a list using slicing
-new_list = list[:]
-print(new_list)
+a = [1,2,3]
+a.sort(reverse = True)
+print(a[0])
