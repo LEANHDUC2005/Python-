@@ -1,5 +1,5 @@
-PYTHON
-Nội Dung
+# PYTHON
+## Nội Dung
 Chương 1: Giới thiệu những khái niệm cơ bản về Python
 Chương 2: Mảng và các kiểu dữ liệu của Mảng
 Chương 3: Modules và Package	
