@@ -1,0 +1,2 @@
+in : a xuất hiện ít nhất một lần trong b
+dictionary : có ngoặc nhọn, có phần tử dạng cặp key-value
