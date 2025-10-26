@@ -1,0 +1,33 @@
+Pandas (5 câu hỏi)
+
+Đọc dữ liệu từ file CSV và hiển thị 10 dòng đầu tiên.
+
+Liệt kê tất cả các quốc gia có trong bảng và đếm số lượng khách hàng ở mỗi quốc gia.
+
+Tìm tất cả khách hàng ở Đức (Germany).
+
+Thêm một cột tính độ dài tên công ty (CompanyName).
+
+Sắp xếp danh sách khách hàng theo độ dài tên công ty giảm dần.
+
+Matplotlib (10 câu hỏi)
+
+Vẽ biểu đồ cột số lượng khách hàng theo từng quốc gia.
+
+Vẽ pie chart tỷ lệ khách hàng theo quốc gia.
+
+Vẽ histogram độ dài tên công ty (NameLength).
+
+Vẽ scatter plot giữa độ dài tên công ty và mã khách hàng (CustomerID nếu có thể chuyển thành số).
+
+Vẽ line chart số lượng khách hàng theo thứ tự sắp xếp theo tên công ty.
+
+Tạo bar chart ngang số lượng khách hàng của top 5 quốc gia có nhiều khách nhất.
+
+Vẽ stacked bar chart nếu có thêm thông tin thành phố (City) theo quốc gia.
+
+Vẽ boxplot độ dài tên công ty (NameLength) theo quốc gia.
+
+Vẽ violin plot độ dài tên công ty theo quốc gia (nếu muốn hiển thị phân bố).
+
+Lưu một biểu đồ bất kỳ ra file PNG (savefig).
